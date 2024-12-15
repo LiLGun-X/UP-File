@@ -1,6 +1,7 @@
 //profile-title: base64:8J+UpSBXQVJQIPCflKU=
 //profile-update-interval: 24
-//subscription-userinfo: upload=268435456000; download=268435456000; total=10737418240000000; expire=2546249531
+//subscription-userinfo: upload=268435456000; download=268435456000; total=268435456000; expire=1736812800
 //support-url: https://t.me/hiddify
 //profile-web-page-url: https://hiddify.com
+
 vmess://eyJhZGQiOiJzYXZlbW9uZXk2LnYycmF5Ym95LndpbiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicmFkb3VhbmUudGVjaC5zcGVlZHRlc3QubmV0IiwiaWQiOiI3YTUyYmFmZC1kODYyLTQ2ZDEtYjNlNy0zYTZkMGZiOTMxYTgiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI4MDgwIiwicHMiOiJTYXZlbW9uZXk2LUFJUy1UVFRUVFQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
