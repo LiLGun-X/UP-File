@@ -1,3 +1,6 @@
 vless://76db962e-0051-4e8c-92a4-be0b10ffeb81@www.opensignal.com.g1.vipitim.online:80?security=none&encryption=none&host=speedtest.adslthailand.com&headerType=http&type=tcp#vip-game1-keak%28%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%9A%E0%B8%9980%29
 vless://23176fcf-e717-4238-b7b3-82dd19f1349b@www.opensignal.com.g2.vipitim.online:80?type=ws&path=%2F&host=speedtest.adslthailand.com&security=none#vipgame2-ais-mod
 vless://69fda59c-7890-4c35-9c98-0259ac6488f3@www.opensignal.com.g2.vipitim.online:8080?type=tcp&path=%2F&host=speedtest.adslthailand.com&headerType=http&security=none#vipgame2-play-good
+vless://7d502d5b-5a9b-4b29-9957-f8582341af02@27.254.163.119:8080?type=tcp&path=%2F&host=www.speedtest.net&headerType=http&security=none#vipbm-ais-play
+
+
